@@ -41,3 +41,10 @@
         }
     }
 }
+# To itrate the map
+
+        for(char c : hashMap.keySet())
+        {
+            int value = (int)hashMap.get(c);
+            System.out.println(c+" "+value);
+        }
