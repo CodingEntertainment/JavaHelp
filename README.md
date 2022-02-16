@@ -1,10 +1,11 @@
 # JavaHelp
 # Collection.sort() Funciton Help
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
 {
+    import java.util.*;
+    import java.lang.*;
+    import java.io.*;
+
     class Student{
         int rollNo;
         String name;
